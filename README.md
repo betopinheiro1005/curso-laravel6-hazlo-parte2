@@ -21,7 +21,7 @@ Aula 15 - Registro de usuários manual
 Aula 16 - Editar usuário e validar campos  
 Aula 17 - Reparando links e imagens  
 Aula 18 - Exibir e eliminar usuários  
-Aula 19 - Permitir acesso com middleware auth
+Aula 19 - Permitir acesso com middleware auth  
 Aula 20 - Buscar, filtrar e listar dados  
 Aula 21 - Paginação de registros  
 Aula 22 - Sessão notas de usuário  
